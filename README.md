@@ -1,6 +1,6 @@
 ### Hiya~! 👋
 
-- 👤 I'm a game programmer from Germany 🇩🇪 
+- 👤 I'm a hobby game programmer from Germany 🇩🇪 
 - 🔭 I’m currently working on a game called OperationalSpace (see the repo on my account)
 - 🌱 I’m currently learning to collaborate on bigger projects
 - ❤️ My favorite programming language (by far) is C
