@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hiya~! 👋
 
+- 👤 I'm a game programmer from Germany 🇩🇪 
+- 🔭 I’m currently working on a game called OperationalSpace (see the repo on my account)
+- 🌱 I’m currently learning to collaborate on bigger projects
+- ❤️ My favorite programming language (by far) is C
 <!--
 **Sleppo04/Sleppo04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
